@@ -2,10 +2,10 @@
   "builders": [{
     "type": "azure-arm",
 
-    "client_id": "2aa4b8b7-02b5-414f-b47f-9b9e5ec7ff49",
-    "client_secret": "bkN0o4eohSpW1XlaveCxqYv.oToR6Kvuaq",
-    "tenant_id": "b338d8e2-ff91-4c1c-b04a-c827d507adba",
-    "subscription_id": "c9a54502-c255-4491-a24b-a36a623a2656",
+    "client_id": "******",
+    "client_secret": "****",
+    "tenant_id": "*****",
+    "subscription_id": "****",
 
   
     "managed_image_resource_group_name": "myResourceGroup",
